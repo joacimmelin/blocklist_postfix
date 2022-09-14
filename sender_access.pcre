@@ -39,5 +39,4 @@
 /\.beauty$/ REJECT We reject all .beauty domains
 /\.lol$/ REJECT We reject all .lol domains
 /\.autos$/ REJECT We reject all .autos domains
-/\.activehosted.com$/ REJECT We reject all spam fuck off
 /\.icu$/ REJECT We reject all .icu domains

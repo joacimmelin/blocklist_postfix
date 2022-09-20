@@ -41,7 +41,7 @@
 /\.autos$/ REJECT We reject all .autos domains
 /\.icu$/ REJECT We reject all .icu domains
 /\.quest$/ REJECT We reject all .quest domains
-/\gutsfin.mom$/ REJECT We reject all gutsfin.mom domains
+/\.mom$/ REJECT We reject all gutsfin.mom domains
 /\yeah.net$/ REJECT We reject all yeah.net domains
 /\andersins.de$/ REJECT We reject all andersins.de domains
 /\.mom$/ REJECT We reject all .mom domains

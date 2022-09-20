@@ -40,3 +40,4 @@
 /\.lol$/ REJECT We reject all .lol domains
 /\.autos$/ REJECT We reject all .autos domains
 /\.icu$/ REJECT We reject all .icu domains
+/\.quest$/ REJECT We reject all .quest domains

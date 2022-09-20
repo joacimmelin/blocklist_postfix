@@ -44,6 +44,5 @@
 /\.mom$/ REJECT We reject all .mom domains
 /\yeah.net$/ REJECT We reject all yeah.net domains
 /\andersins.de$/ REJECT We reject all andersins.de domains
-/\.mom$/ REJECT We reject all .mom domains
 /\tinsresnme.eu$/ REJECT We reject tinsresnme.eu
 /\163.com$/ REJECT We reject 163.com

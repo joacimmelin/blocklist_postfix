@@ -47,3 +47,4 @@
 /\tinsresnme.eu$/ REJECT We reject tinsresnme.eu
 /\163.com$/ REJECT We reject 163.com
 /\.monster$/ REJECT We reject .monster
+/\yeah.net$/ REJECT We reject yeah.net
